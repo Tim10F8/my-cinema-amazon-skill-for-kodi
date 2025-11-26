@@ -1,0 +1,18 @@
+﻿joue le film {MovieName}
+joue le film {MovieName} {SourceMode}
+lance le film {MovieName}
+lance le film {MovieName} {SourceMode}
+mets le film {MovieName}
+mets le film {MovieName} {SourceMode}
+démarre le film {MovieName}
+démarre le film {MovieName} {SourceMode}
+regarder le film {MovieName}
+regarder le film {MovieName} {SourceMode}
+je veux voir le film {MovieName}
+je veux voir le film {MovieName} {SourceMode}
+lance le film {MovieName} de {MovieYear}
+lance le film {MovieName} de {MovieYear} {SourceMode}
+trouve le film {MovieName}
+trouve le film {MovieName} {SourceMode}
+affiche le film {MovieName}
+affiche le film {MovieName} {SourceMode}
